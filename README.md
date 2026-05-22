@@ -1,41 +1,39 @@
- Hi, I'm Chinaza Precious
+# Chinaza Precious
 
-I'm a Front-End Developer passionate about building clean, responsive websites.
+Frontend Developer focused on building responsive, scalable, and user-focused web applications.
 
- Skills
-- HTML, CSS, JavaScript (Vanilla)
-- Responsive Design
+## Tech Stack
 - React
-- Tailwind css
-- Typescript
-- next.js
+- Next.js
+- JavaScript
+- TypeScript
+- Tailwind CSS
+- HTML5 & CSS3
+- REST APIs
 
-  Tools and others
-  - Git & GitHub
-  - Vercel
-  - APIS
+## Featured Projects
 
-Projects
-Here are some of the projects I've built:
--[Resume-builder app] (https://resume-builder-sable-delta.vercel.app/)
--[portfolio-website] ( https://chinaza-portfolio-3wqk.vercel.app/)
--[Ecommerce Website](https://easibuy-ecommere-14p8.vercel.app/)
--[To-Do App](https://todo-react-coral-nine.vercel.app/)
--[Weather App](https://weather-app-one-phi-65.vercel.app/)
--[Quiz App](https://quiz-app-mu-bice.vercel.app/)
+### Resume Builder
+A modern React-based resume builder with real-time preview and PDF export functionality.
 
- Goals
-- Learn next js and build more advanced projects
-- Land more first front-end development job 
-- Work with real teams and solve real problems with code
+🔗 https://resume-builder-sable-delta.vercel.app/
 
-Let's Connect
-- GitHub: [preciousnaza](https://github.com/preciousnaza)
-- Email: onyejekwechinaza2027@gmail.com
-- Linkdeln: https://www.linkedin.com/in/chinaza-precious/
-- portfolio:https://chinaza-portfolio-3wqk.vercel.app/
+### Ecommerce Website
+Responsive ecommerce application built with Next.js and Tailwind CSS featuring dynamic routing and reusable UI components.
 
-I'm actively looking for **Frontend Developer (React)** roles.  
-Open to remote opportunities or positions.
+🔗 https://ecommerce-ptniphoor-chinazas-projects-81709bda.vercel.app
 
-Feel free to reach out if you have any interesting projects or opportunities!
+### Weather App
+Real-time weather application integrated with REST APIs for live weather data and location-based search.
+
+🔗 https://weather-app-one-phi-65.vercel.app/
+
+### Portfolio Website
+Personal portfolio showcasing projects, frontend skills, and responsive UI development.
+
+🔗 https://chinaza-portfolio-3wqk.vercel.app/
+
+## Connect
+- Portfolio: https://chinaza-portfolio-3wqk.vercel.app/
+- LinkedIn: https://www.linkedin.com/in/chinaza-precious/
+- GitHub: https://github.com/preciousnaza
