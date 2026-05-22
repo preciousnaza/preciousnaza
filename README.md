@@ -1,4 +1,4 @@
- Hi, I'm Chinaza
+ Hi, I'm Chinaza Precious
 
 I'm a Front-End Developer passionate about building clean, responsive websites.
 
@@ -8,6 +8,7 @@ I'm a Front-End Developer passionate about building clean, responsive websites.
 - React
 - Tailwind css
 - Typescript
+- next.js
 
   Tools and others
   - Git & GitHub
@@ -18,10 +19,10 @@ Projects
 Here are some of the projects I've built:
 -[Resume-builder app] (https://resume-builder-sable-delta.vercel.app/)
 -[portfolio-website] ( https://chinaza-portfolio-3wqk.vercel.app/)
-- [Ecommerce Website](https://easibuy-ecommere-14p8.vercel.app/)
-- [To-Do App](https://todo-react-coral-nine.vercel.app/)
-- [Weather App](https://weather-app-one-phi-65.vercel.app/)
-- [Quiz App](https://quiz-app-mu-bice.vercel.app/)
+-[Ecommerce Website](https://easibuy-ecommere-14p8.vercel.app/)
+-[To-Do App](https://todo-react-coral-nine.vercel.app/)
+-[Weather App](https://weather-app-one-phi-65.vercel.app/)
+-[Quiz App](https://quiz-app-mu-bice.vercel.app/)
 
  Goals
 - Learn next js and build more advanced projects
@@ -31,10 +32,10 @@ Here are some of the projects I've built:
 Let's Connect
 - GitHub: [preciousnaza](https://github.com/preciousnaza)
 - Email: onyejekwechinaza2027@gmail.com
-- Linkdeln: www.linkedin.com/in/chinaza-onyejekwe-230832305
+- Linkdeln: https://www.linkedin.com/in/chinaza-precious/
 - portfolio:https://chinaza-portfolio-3wqk.vercel.app/
 
 I'm actively looking for **Frontend Developer (React)** roles.  
-Open to remote opportunities or positions in Nigeria.
+Open to remote opportunities or positions.
 
 Feel free to reach out if you have any interesting projects or opportunities!
